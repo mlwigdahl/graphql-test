@@ -1,0 +1,14 @@
+{
+  "name": "graphql-test",
+  "version": "0.0.1",
+  "description": "Test application for GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Wigdahl",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.8.5"
+  }
+}
