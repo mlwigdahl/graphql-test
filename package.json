@@ -1,6 +1,7 @@
 {
   "name": "graphql-test",
   "version": "0.0.1",
+  "repository": "https://github.com/mlwigdahl/graphql-test.git"
   "description": "Test application for GraphQL",
   "main": "index.js",
   "scripts": {
