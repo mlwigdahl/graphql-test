@@ -1,7 +1,7 @@
 {
   "name": "graphql-test",
   "version": "0.0.1",
-  "repository": "https://github.com/mlwigdahl/graphql-test.git"
+  "repository": "https://github.com/mlwigdahl/graphql-test.git",
   "description": "Test application for GraphQL",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "Matt Wigdahl",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.8.5"
+    "graphql-yoga": "^1.8.5",
+    "prisma-binding": "^1.5.17"
   }
 }
